@@ -17,8 +17,9 @@
 }
 
 .icone {
+    
     font-size: 3rem;
-    color: var(--red);
+    color: purple;
     transition: transform 0.3s ease-in-out;
 }
 
