@@ -1,0 +1,75 @@
+
+.sobre {
+  width: 100%;
+  min-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.avatar {
+  width: 300px;
+  margin: 4rem;
+  border: solid 2px ;
+  border-radius: 0.5rem;
+  box-shadow: -18px -5px 25px 1px;
+  transition: transform 0.4s ease-in-out;
+}
+
+.avatar:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.bio {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.bio span {
+  color: var(--red);
+  font-weight: bold;
+}
+
+.bio strong {
+  color: var(--secondary);
+  font-weight: bold ;
+  font-size: 25px;
+  
+}
+
+.textos h2, p {
+  margin-bottom: 1rem;
+}
+
+.techs {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.icones {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.icones img {
+  height: 50px;
+}
+
+.icone {
+  font-size: 3rem;
+  transition: transform 0.3s ease-in-out;
+}
+
+.icone:hover{
+  cursor: pointer;
+  transform: scale(1.25);
+}
