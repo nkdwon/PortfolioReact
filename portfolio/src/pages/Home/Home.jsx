@@ -7,7 +7,7 @@ function Home() {
         <div className={styles.apresentacao}>
           <p>
             Olá, sou <br />
-            <span>Sandra Alves</span> <br />
+            <span>Felipe Barros</span> <br />
             Dev Full Stack
           </p>
           <Link to="/sobre" className={`${styles.btn} ${styles.btn_red}`}>
