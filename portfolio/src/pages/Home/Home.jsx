@@ -18,7 +18,7 @@ function Home() {
           <img
             className={styles.img_home}
             src="./src/assets/icon.svg"
-            alt="Imagem de Home"
+            alt="Imagem da Home"
           />
         </figure>
       </section>
