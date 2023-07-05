@@ -35,17 +35,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 
 <p align="center">
-  <img alt="Preview Web Portfólio React" src="" width ="100%">
+  <img alt="Preview Capa Portfólio React" src=".github/capaPortfolio.PNG" width ="100%">
 </p>
 
 ##
 
-<h3 align="center"> Layout Mobile 📱 </h3>
-
 <br>
 
 <p align="center">
-  <img alt="Preview Mobile Portfólio React" src="" >
+  <img alt="Preview Contato Portfólio React" src=".github/contato.PNG" width ="100%">
 </p>
 
 ## 📁 Projeto
