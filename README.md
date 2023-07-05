@@ -40,8 +40,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ##
 
-<br>
-
 <p align="center">
   <img alt="Preview Contato Portfólio React" src=".github/contato.PNG" width ="100%">
 </p>
